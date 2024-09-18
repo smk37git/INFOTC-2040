@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Quiz Work Folder/1.0.0": {
+        "runtime": {
+          "Quiz Work Folder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quiz Work Folder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

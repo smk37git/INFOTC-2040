@@ -1,0 +1,14 @@
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Quiz Work Folder\bin\Debug\net8.0\Quiz Work Folder.exe
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Quiz Work Folder\bin\Debug\net8.0\Quiz Work Folder.deps.json
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Quiz Work Folder\bin\Debug\net8.0\Quiz Work Folder.runtimeconfig.json
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Quiz Work Folder\bin\Debug\net8.0\Quiz Work Folder.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Quiz Work Folder\bin\Debug\net8.0\Quiz Work Folder.pdb
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Quiz Work Folder\obj\Debug\net8.0\Quiz Work Folder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Quiz Work Folder\obj\Debug\net8.0\Quiz Work Folder.AssemblyInfoInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Quiz Work Folder\obj\Debug\net8.0\Quiz Work Folder.AssemblyInfo.cs
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Quiz Work Folder\obj\Debug\net8.0\Quiz Work Folder.csproj.CoreCompileInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Quiz Work Folder\obj\Debug\net8.0\Quiz Work Folder.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Quiz Work Folder\obj\Debug\net8.0\refint\Quiz Work Folder.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Quiz Work Folder\obj\Debug\net8.0\Quiz Work Folder.pdb
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Quiz Work Folder\obj\Debug\net8.0\Quiz Work Folder.genruntimeconfig.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Quiz Work Folder\obj\Debug\net8.0\ref\Quiz Work Folder.dll

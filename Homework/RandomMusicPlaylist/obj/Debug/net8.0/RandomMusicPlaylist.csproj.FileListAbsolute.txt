@@ -1,0 +1,14 @@
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\RandomMusicPlaylist\bin\Debug\net8.0\RandomMusicPlaylist.exe
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\RandomMusicPlaylist\bin\Debug\net8.0\RandomMusicPlaylist.deps.json
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\RandomMusicPlaylist\bin\Debug\net8.0\RandomMusicPlaylist.runtimeconfig.json
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\RandomMusicPlaylist\bin\Debug\net8.0\RandomMusicPlaylist.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\RandomMusicPlaylist\bin\Debug\net8.0\RandomMusicPlaylist.pdb
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\RandomMusicPlaylist\obj\Debug\net8.0\RandomMusicPlaylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\RandomMusicPlaylist\obj\Debug\net8.0\RandomMusicPlaylist.AssemblyInfoInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\RandomMusicPlaylist\obj\Debug\net8.0\RandomMusicPlaylist.AssemblyInfo.cs
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\RandomMusicPlaylist\obj\Debug\net8.0\RandomMusicPlaylist.csproj.CoreCompileInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\RandomMusicPlaylist\obj\Debug\net8.0\RandomMusicPlaylist.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\RandomMusicPlaylist\obj\Debug\net8.0\refint\RandomMusicPlaylist.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\RandomMusicPlaylist\obj\Debug\net8.0\RandomMusicPlaylist.pdb
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\RandomMusicPlaylist\obj\Debug\net8.0\RandomMusicPlaylist.genruntimeconfig.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\RandomMusicPlaylist\obj\Debug\net8.0\ref\RandomMusicPlaylist.dll

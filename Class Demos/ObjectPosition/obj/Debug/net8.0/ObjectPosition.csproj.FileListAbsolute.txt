@@ -1,0 +1,28 @@
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\ObjectPosition\bin\Debug\net8.0\ObjectPosition.exe
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\ObjectPosition\bin\Debug\net8.0\ObjectPosition.deps.json
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\ObjectPosition\bin\Debug\net8.0\ObjectPosition.runtimeconfig.json
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\ObjectPosition\bin\Debug\net8.0\ObjectPosition.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\ObjectPosition\bin\Debug\net8.0\ObjectPosition.pdb
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\ObjectPosition\obj\Debug\net8.0\ObjectPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\ObjectPosition\obj\Debug\net8.0\ObjectPosition.AssemblyInfoInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\ObjectPosition\obj\Debug\net8.0\ObjectPosition.AssemblyInfo.cs
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\ObjectPosition\obj\Debug\net8.0\ObjectPosition.csproj.CoreCompileInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\ObjectPosition\obj\Debug\net8.0\ObjectPosition.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\ObjectPosition\obj\Debug\net8.0\refint\ObjectPosition.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\ObjectPosition\obj\Debug\net8.0\ObjectPosition.pdb
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\ObjectPosition\obj\Debug\net8.0\ObjectPosition.genruntimeconfig.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\ObjectPosition\obj\Debug\net8.0\ref\ObjectPosition.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\ObjectPosition\bin\Debug\net8.0\ObjectPosition.exe
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\ObjectPosition\bin\Debug\net8.0\ObjectPosition.deps.json
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\ObjectPosition\bin\Debug\net8.0\ObjectPosition.runtimeconfig.json
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\ObjectPosition\bin\Debug\net8.0\ObjectPosition.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\ObjectPosition\bin\Debug\net8.0\ObjectPosition.pdb
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\ObjectPosition\obj\Debug\net8.0\ObjectPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\ObjectPosition\obj\Debug\net8.0\ObjectPosition.AssemblyInfoInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\ObjectPosition\obj\Debug\net8.0\ObjectPosition.AssemblyInfo.cs
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\ObjectPosition\obj\Debug\net8.0\ObjectPosition.csproj.CoreCompileInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\ObjectPosition\obj\Debug\net8.0\ObjectPosition.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\ObjectPosition\obj\Debug\net8.0\refint\ObjectPosition.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\ObjectPosition\obj\Debug\net8.0\ObjectPosition.pdb
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\ObjectPosition\obj\Debug\net8.0\ObjectPosition.genruntimeconfig.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\ObjectPosition\obj\Debug\net8.0\ref\ObjectPosition.dll

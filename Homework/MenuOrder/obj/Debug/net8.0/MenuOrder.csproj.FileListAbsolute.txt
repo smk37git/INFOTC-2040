@@ -1,0 +1,14 @@
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MenuOrder\bin\Debug\net8.0\MenuOrder.exe
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MenuOrder\bin\Debug\net8.0\MenuOrder.deps.json
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MenuOrder\bin\Debug\net8.0\MenuOrder.runtimeconfig.json
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MenuOrder\bin\Debug\net8.0\MenuOrder.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MenuOrder\bin\Debug\net8.0\MenuOrder.pdb
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MenuOrder\obj\Debug\net8.0\MenuOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MenuOrder\obj\Debug\net8.0\MenuOrder.AssemblyInfoInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MenuOrder\obj\Debug\net8.0\MenuOrder.AssemblyInfo.cs
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MenuOrder\obj\Debug\net8.0\MenuOrder.csproj.CoreCompileInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MenuOrder\obj\Debug\net8.0\MenuOrder.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MenuOrder\obj\Debug\net8.0\refint\MenuOrder.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MenuOrder\obj\Debug\net8.0\MenuOrder.pdb
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MenuOrder\obj\Debug\net8.0\MenuOrder.genruntimeconfig.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MenuOrder\obj\Debug\net8.0\ref\MenuOrder.dll

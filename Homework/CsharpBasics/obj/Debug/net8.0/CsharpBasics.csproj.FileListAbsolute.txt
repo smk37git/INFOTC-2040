@@ -1,0 +1,14 @@
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\CsharpBasics\obj\Debug\net8.0\CsharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\CsharpBasics\obj\Debug\net8.0\CsharpBasics.AssemblyInfoInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\CsharpBasics\obj\Debug\net8.0\CsharpBasics.AssemblyInfo.cs
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\CsharpBasics\obj\Debug\net8.0\CsharpBasics.csproj.CoreCompileInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\CsharpBasics\bin\Debug\net8.0\CsharpBasics.exe
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\CsharpBasics\bin\Debug\net8.0\CsharpBasics.deps.json
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\CsharpBasics\bin\Debug\net8.0\CsharpBasics.runtimeconfig.json
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\CsharpBasics\bin\Debug\net8.0\CsharpBasics.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\CsharpBasics\bin\Debug\net8.0\CsharpBasics.pdb
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\CsharpBasics\obj\Debug\net8.0\CsharpBasics.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\CsharpBasics\obj\Debug\net8.0\refint\CsharpBasics.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\CsharpBasics\obj\Debug\net8.0\CsharpBasics.pdb
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\CsharpBasics\obj\Debug\net8.0\CsharpBasics.genruntimeconfig.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\CsharpBasics\obj\Debug\net8.0\ref\CsharpBasics.dll
