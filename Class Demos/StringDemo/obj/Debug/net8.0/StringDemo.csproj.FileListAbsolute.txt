@@ -12,3 +12,4 @@ C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\StringDe
 C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\StringDemo\obj\Debug\net8.0\StringDemo.pdb
 C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\StringDemo\obj\Debug\net8.0\StringDemo.genruntimeconfig.cache
 C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\StringDemo\obj\Debug\net8.0\ref\StringDemo.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\StringDemo\obj\Debug\net8.0\StringDemo.sourcelink.json
