@@ -1,0 +1,15 @@
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\LicensePlate\bin\Debug\net8.0\LicensePlate.exe
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\LicensePlate\bin\Debug\net8.0\LicensePlate.deps.json
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\LicensePlate\bin\Debug\net8.0\LicensePlate.runtimeconfig.json
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\LicensePlate\bin\Debug\net8.0\LicensePlate.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\LicensePlate\bin\Debug\net8.0\LicensePlate.pdb
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\LicensePlate\obj\Debug\net8.0\LicensePlate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\LicensePlate\obj\Debug\net8.0\LicensePlate.AssemblyInfoInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\LicensePlate\obj\Debug\net8.0\LicensePlate.AssemblyInfo.cs
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\LicensePlate\obj\Debug\net8.0\LicensePlate.csproj.CoreCompileInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\LicensePlate\obj\Debug\net8.0\LicensePlate.sourcelink.json
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\LicensePlate\obj\Debug\net8.0\LicensePlate.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\LicensePlate\obj\Debug\net8.0\refint\LicensePlate.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\LicensePlate\obj\Debug\net8.0\LicensePlate.pdb
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\LicensePlate\obj\Debug\net8.0\LicensePlate.genruntimeconfig.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\LicensePlate\obj\Debug\net8.0\ref\LicensePlate.dll
