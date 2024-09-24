@@ -40,8 +40,14 @@ class Program
         // Output: Bool (True/False)
         bool Validation = ValidateLicense(LicensePlate)!;
 
+        // Output Function
+        // Input: Validation, LicensePlate
+        // Output: LicensePlate "Valid" or "Not Valid"
+        string outputLicense = printLicense(LicensePlate, Validation)!;
+
     }
 
+    // Function to get user input
     static string GetUserInput(){
 
         // While Loop to get input
@@ -52,29 +58,63 @@ class Program
 
             // Check to see if License Plate is 2-6 characters, If not then reprompt.
             if(UserInput.Length < 2 || UserInput.Length > 6){
-                Console.WriteLine("ERROR: Please enter a Valid License Plate (2-6 Characters)");
-                continue;
+                    Console.WriteLine($"{UserInput} is NOT a VALID license plate (2-6 characters).");
+                    continue;
             }
 
         return UserInput;
         }
-
     }
 
+    // Function validate requirements
     static bool ValidateLicense(string LicensePlate){
 
         // Check for requirements
+        // Check to make sure all characters are alphanumeric
+        foreach(char character in LicensePlate){
+            if(!Char.IsLetterOrDigit(character)){
+                Console.WriteLine("NO1");
+                return false;
+            }
+        }
+
         // Check if [0-1] are letters
-        if(char.IsLetter(LicensePlate[0]) || char.IsLetter(LicensePlate[1])){
-            Console.WriteLine("YES");
-            return true;
-        }else{
-            Console.WriteLine("NO");
+        if(!char.IsLetter(LicensePlate[0]) || !char.IsLetter(LicensePlate[1])){
+            Console.WriteLine("NO2");
             return false;
         }
 
         // Check if [2-5] have no numbers in middle. (AAA222 [TRUE] / AA2AAA [FALSE])
+        // bool to check for digit. If statement, if find number, and current character is letter = false
+        foreach(char character in LicensePlate){
+            bool Digit = false;
+            if(Char.IsDigit(character)){
+                Digit = true;  
+            }
+            // If it starts with 0: false, if it ends with 0 true.
+            if(Char.IsDigit(character) && character == '0' && character != LicensePlate.Last()){
+                Console.WriteLine("NO3");
+                return false;
+            }
+            // Finish checking for digits
+            if(Char.IsLetter(character) && (Digit == true)){
+                Console.WriteLine("NO4");
+                return false;
+            }
+        }
+
+        return true;
+    }
 
 
+    // Function print output
+    static string printLicense(string LicensePlate, bool Validation){
+        if(Validation == true){
+            Console.WriteLine($"{LicensePlate} is VALID license plate.");
+        }else{
+            Console.WriteLine($"{LicensePlate} is NOT a VALID license plate.");
+        }
+
+        return LicensePlate;
     }
 }
