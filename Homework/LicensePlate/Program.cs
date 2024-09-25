@@ -73,14 +73,12 @@ class Program
         // Check to make sure all characters are alphanumeric
         foreach(char character in LicensePlate){
             if(!Char.IsLetterOrDigit(character)){
-                Console.WriteLine("NO1");
                 return false;
             }
         }
 
         // Check if [0-1] are letters
         if(!char.IsLetter(LicensePlate[0]) || !char.IsLetter(LicensePlate[1])){
-            Console.WriteLine("NO2");
             return false;
         }
 
@@ -93,12 +91,10 @@ class Program
             }
             // If it starts with 0: false, if it ends with 0 true.
             if(Char.IsDigit(character) && character == '0' && character != LicensePlate.Last()){
-                Console.WriteLine("NO3");
                 return false;
             }
             // Finish checking for digits
             if(Char.IsLetter(character) && (Digit == true)){
-                Console.WriteLine("NO4");
                 return false;
             }
         }
