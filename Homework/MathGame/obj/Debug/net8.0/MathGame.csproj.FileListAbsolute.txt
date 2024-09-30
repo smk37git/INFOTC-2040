@@ -1,0 +1,15 @@
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MathGame\bin\Debug\net8.0\MathGame.exe
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MathGame\bin\Debug\net8.0\MathGame.deps.json
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MathGame\bin\Debug\net8.0\MathGame.runtimeconfig.json
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MathGame\bin\Debug\net8.0\MathGame.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MathGame\bin\Debug\net8.0\MathGame.pdb
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MathGame\obj\Debug\net8.0\MathGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MathGame\obj\Debug\net8.0\MathGame.AssemblyInfoInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MathGame\obj\Debug\net8.0\MathGame.AssemblyInfo.cs
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MathGame\obj\Debug\net8.0\MathGame.csproj.CoreCompileInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MathGame\obj\Debug\net8.0\MathGame.sourcelink.json
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MathGame\obj\Debug\net8.0\MathGame.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MathGame\obj\Debug\net8.0\refint\MathGame.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MathGame\obj\Debug\net8.0\MathGame.pdb
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MathGame\obj\Debug\net8.0\MathGame.genruntimeconfig.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MathGame\obj\Debug\net8.0\ref\MathGame.dll
