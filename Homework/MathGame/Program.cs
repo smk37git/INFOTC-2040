@@ -1,56 +1,17 @@
-﻿using System.ComponentModel.DataAnnotations;
-using System.Diagnostics.Metrics;
-using System.Formats.Asn1;
-using System.Net.Http.Headers;
-using System.Reflection.Metadata.Ecma335;
-using System.Security.Cryptography;
-
-namespace MathGame;
+﻿namespace MathGame;
 
 class Program
 {
     static void Main(string[] args)
     {
-        /*
-        Sebastian Main -- Math Game Program
-        Needs atleast 4 Functions
 
-        1. Welcome and Name:
-        Prompt the user and ask them to enter their name.
-        If the user doesn't enter a name, ask them to try again.
+        // Sebastian Main -- Math Game Program
+        // Made with 6 functions
 
-        2. Choose Your Challenge:
-        Ask the user to select their desired difficulty level (1, 2, or 3).
-        If the user enters an invalid option, output an error message showing the valid options and ask them to try again.
-
-        3. Set the Question Limit:
-        Ask the user how many math problems they want to answer. Valid options (3 - 10).
-        If the user enters an invalid number, output an error message showing the valid range and ask them to try again.
-
-        4. Ask the Questions:
-        Present each problem to the user in the format X + Y =  .
-        Generate the specified number of math problems based on the chosen question limit. The numbers in the problem (X  and Y ) should have the chosen difficulty number of digits:
-        Level 1: Single-digit numbers (1-9)
-        Level 2: Double-digit numbers (10-99)
-        Level 3: Triple-digit numbers (100-999)
-        Get the user's answer.
-
-        5. Evaluate the Answer:
-        If the answer is correct:
-        Output: YaY! You Got It Right!!!
-        Move on to the next problem.
-        If the answer is incorrect (or not even a number):
-        Output: OOPS! You Got it WRONG!!!
-        The user is allowed a maximum of three (3) attempts per question to give a correct answer.
-        If the user does not give the correct answer after three tries, output the correct answer.
-        Move on to the next problem.
-
-        6. Final Score:
-        Once all problems are answered, congratulate the user on their effort.
-        Calculate and display their percentage of correct answers with two decimal places.
-
-        7.  End the program
-        */
+        // This program will provide a game for the user. The user can select the difficulty [1-3] and the
+        // number of questions [3-10]. It will then prompt the user with the questions, they have three
+        // attempts to get it right, if they don't it moves on the the next question. After completing
+        // the questions it will then calculate the score based on 0%-100%. Then the program ends.
 
         // Clear Console
         Console.Clear();
@@ -80,10 +41,13 @@ class Program
         // Output: Score in decimal (.00)
         string FinalScore = CalculateScore(Score, QuestionLimit, UserName);
 
+        // Program ends
+
 
     }
 
     static string GetUserInput(){
+
         // While Loop to get input
         while (true){
 
@@ -97,10 +61,12 @@ class Program
             }
 
         return UserInput;
+
         }
     }
 
     static int GetDifficulty(){
+
         // Initalize UserDifficulty
         int UserDifficulty;
         
@@ -125,10 +91,12 @@ class Program
             }
 
         return UserDifficulty;
+
         }
     }
 
     static int GetLimit(){
+
         // Initalize UserLimit
         int UserLimit;
         
@@ -153,16 +121,17 @@ class Program
             }
 
         return UserLimit;
+
         }
     }
 
     static string AskQuestions(int Difficulty, int QuestionLimit){
+
         // Initalize Random and X / Y and Score and Answer
         Random random = new Random();
         int X, Y;
         int Score = 0;
         int Answer;
-
 
         // Seperate by Difficulty
         switch (Difficulty){
@@ -183,28 +152,29 @@ class Program
 
                     // Write Question Loop
                     while(Attempts < 3){
+
+                        // Output Equation
                         Console.Write($"{X} + {Y} = ");
 
                         // Check to see if Answer is numbers
                         try{
                             Answer = int.Parse(Console.ReadLine()!);
-
-                            // Validating Function
-                            // Input: Answer, X / Y
-                            // Output: Bool (Correct == True, Incorrect == False)
-                            bool Validation = ValidateAnswer(Answer, X, Y);
-
-                            if(Validation == true){
-                                Score ++;
-                                break;
-                            }else if(Validation == false){
-                                Attempts ++;
-                            }
-                            
-                            break;
                         }catch(Exception){
-                            Console.WriteLine("ERROR: Only numbers allowed.");
+                            Console.WriteLine("ERROR: Only numbers allowed.\n ");
+                            Attempts ++;
                             continue;
+                        }
+
+                        // Validating Function
+                        // Input: Answer, X / Y
+                        // Output: Bool (Correct == True, Incorrect == False)
+                        bool Validation = ValidateAnswer(Answer, X, Y);
+
+                        if(Validation == true){
+                            Score ++;
+                            break;
+                        }else if(Validation == false){
+                            Attempts ++;
                         }
                     }
                 }    
@@ -228,8 +198,18 @@ class Program
 
                     // Write Question Loop
                     while(Attempts < 3){
+
+                        // Output Equation
                         Console.Write($"{X} + {Y} = ");
-                        Answer = int.Parse(Console.ReadLine()!);
+
+                        // Check to see if Answer is numbers
+                        try{
+                            Answer = int.Parse(Console.ReadLine()!);
+                        }catch(Exception){
+                            Console.WriteLine("ERROR: Only numbers allowed.");
+                            Attempts ++;
+                            continue;
+                        }
 
                         // Validating Function
                         // Input: Answer, X / Y
@@ -244,6 +224,7 @@ class Program
                         }
                     }
                 }
+
                 break;
 
             case 3: // HARD
@@ -262,8 +243,18 @@ class Program
 
                     // Write Question Loop
                     while(Attempts < 3){
+
+                        // Output Equation
                         Console.Write($"{X} + {Y} = ");
-                        Answer = int.Parse(Console.ReadLine()!);
+
+                        // Check to see if Answer is numbers
+                        try{
+                            Answer = int.Parse(Console.ReadLine()!);
+                        }catch(Exception){
+                            Console.WriteLine("ERROR: Only numbers allowed.");
+                            Attempts ++;
+                            continue;
+                        }
 
                         // Validating Function
                         // Input: Answer, X / Y
@@ -278,6 +269,7 @@ class Program
                         }
                     }
                 }
+
                 break;
 
             default:
@@ -286,9 +278,12 @@ class Program
         }
         
         return Score.ToString();
+
     }
 
     static bool ValidateAnswer(int Answer, int X, int Y){
+
+        // Is Answer correct or incorrect?
         if(Answer == X + Y){
             Console.WriteLine("YaY! You Got It Right!!!\n");
             return true;
@@ -296,23 +291,20 @@ class Program
             Console.WriteLine("OOPS! You Got it WRONG!!!\n");
             return false;
         }
-
     }
 
     static string CalculateScore(string Score, int QuestionLimit, string UserName){
 
         // Congratulate User
-        Console.WriteLine($"Congratulations {UserName}!\nThank you for playing!");
+        Console.WriteLine($"Congratulations {UserName}! Thank you for playing!\n-------------------------------------------");
 
         // Calculate and output Score
         float CalcScore = (float.Parse(Score) / QuestionLimit) * 100f;
-        Console.WriteLine($"Final Score: {CalcScore:F2}%");
+        Console.WriteLine($"You got {Score} out of {QuestionLimit} questions right.");
+        Console.WriteLine($"Final Score: {CalcScore:F2}%\n ");
 
         // Return Score
         return CalcScore.ToString();
 
-
-
     }
-
 }
