@@ -1,0 +1,29 @@
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/OOPDemo/bin/Debug/net8.0/OOPDemo
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/OOPDemo/bin/Debug/net8.0/OOPDemo.deps.json
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/OOPDemo/bin/Debug/net8.0/OOPDemo.runtimeconfig.json
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/OOPDemo/bin/Debug/net8.0/OOPDemo.dll
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/OOPDemo/bin/Debug/net8.0/OOPDemo.pdb
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/OOPDemo/obj/Debug/net8.0/OOPDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/OOPDemo/obj/Debug/net8.0/OOPDemo.AssemblyInfoInputs.cache
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/OOPDemo/obj/Debug/net8.0/OOPDemo.AssemblyInfo.cs
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/OOPDemo/obj/Debug/net8.0/OOPDemo.csproj.CoreCompileInputs.cache
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/OOPDemo/obj/Debug/net8.0/OOPDemo.dll
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/OOPDemo/obj/Debug/net8.0/refint/OOPDemo.dll
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/OOPDemo/obj/Debug/net8.0/OOPDemo.pdb
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/OOPDemo/obj/Debug/net8.0/OOPDemo.genruntimeconfig.cache
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/OOPDemo/obj/Debug/net8.0/ref/OOPDemo.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\OOPDemo\bin\Debug\net8.0\OOPDemo.exe
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\OOPDemo\bin\Debug\net8.0\OOPDemo.deps.json
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\OOPDemo\bin\Debug\net8.0\OOPDemo.runtimeconfig.json
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\OOPDemo\bin\Debug\net8.0\OOPDemo.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\OOPDemo\bin\Debug\net8.0\OOPDemo.pdb
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\OOPDemo\obj\Debug\net8.0\OOPDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\OOPDemo\obj\Debug\net8.0\OOPDemo.AssemblyInfoInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\OOPDemo\obj\Debug\net8.0\OOPDemo.AssemblyInfo.cs
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\OOPDemo\obj\Debug\net8.0\OOPDemo.csproj.CoreCompileInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\OOPDemo\obj\Debug\net8.0\OOPDemo.sourcelink.json
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\OOPDemo\obj\Debug\net8.0\OOPDemo.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\OOPDemo\obj\Debug\net8.0\refint\OOPDemo.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\OOPDemo\obj\Debug\net8.0\OOPDemo.pdb
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\OOPDemo\obj\Debug\net8.0\OOPDemo.genruntimeconfig.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Class Demos\OOPDemo\obj\Debug\net8.0\ref\OOPDemo.dll
