@@ -1,0 +1,15 @@
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\Automobile\bin\Debug\net8.0\Automobile.exe
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\Automobile\bin\Debug\net8.0\Automobile.deps.json
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\Automobile\bin\Debug\net8.0\Automobile.runtimeconfig.json
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\Automobile\bin\Debug\net8.0\Automobile.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\Automobile\bin\Debug\net8.0\Automobile.pdb
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\Automobile\obj\Debug\net8.0\Automobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\Automobile\obj\Debug\net8.0\Automobile.AssemblyInfoInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\Automobile\obj\Debug\net8.0\Automobile.AssemblyInfo.cs
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\Automobile\obj\Debug\net8.0\Automobile.csproj.CoreCompileInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\Automobile\obj\Debug\net8.0\Automobile.sourcelink.json
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\Automobile\obj\Debug\net8.0\Automobile.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\Automobile\obj\Debug\net8.0\refint\Automobile.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\Automobile\obj\Debug\net8.0\Automobile.pdb
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\Automobile\obj\Debug\net8.0\Automobile.genruntimeconfig.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\Automobile\obj\Debug\net8.0\ref\Automobile.dll
