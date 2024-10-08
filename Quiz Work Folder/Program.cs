@@ -1,21 +1,16 @@
-﻿using System.Globalization;
-using System.Runtime.CompilerServices;
-using System.Security.Cryptography.X509Certificates;
-
-namespace Quiz_Work_Folder;
+﻿namespace Quiz_Work_Folder;
 
 class Program
 {
     static void Main(string[] args)
     {
-        List<int> myNumbers = new List<int>();
-    foreach(int number in myNumbers){
-        Console.WriteLine(number);
+        string s1 = "quick";
+        string s2 = "Quick";
+
+        if(s1.ToUpper() == s2){
+            Console.WriteLine("The strings are equal");
+        }else{
+            Console.WriteLine("The strings are not equal");
+        }
     }
-
-    }
-
-
-    
-
 }

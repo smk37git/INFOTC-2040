@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Quiz Work Folder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc9e8eea96f24a5fac0e18f0187bb44f8dbd33aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae96a8f511c73b72e2e24cdf88e9bfc40228edf9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Quiz Work Folder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Quiz Work Folder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

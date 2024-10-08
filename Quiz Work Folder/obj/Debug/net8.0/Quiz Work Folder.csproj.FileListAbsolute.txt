@@ -12,3 +12,4 @@ C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Quiz Work Folder\obj
 C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Quiz Work Folder\obj\Debug\net8.0\Quiz Work Folder.pdb
 C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Quiz Work Folder\obj\Debug\net8.0\Quiz Work Folder.genruntimeconfig.cache
 C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Quiz Work Folder\obj\Debug\net8.0\ref\Quiz Work Folder.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Quiz Work Folder\obj\Debug\net8.0\Quiz Work Folder.sourcelink.json

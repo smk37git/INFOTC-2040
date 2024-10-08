@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LicensePlate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f479d5cd8143071f20d16e6be44a050fd710a24")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae96a8f511c73b72e2e24cdf88e9bfc40228edf9")]
 [assembly: System.Reflection.AssemblyProductAttribute("LicensePlate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LicensePlate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
