@@ -9,13 +9,6 @@ namespace Automobile;
 // type (of type autoType)
 
 //Create the Automobile Class
-// Declare Enum Type for autoType
-    public enum AutoType{
-        Sedan,
-        Truck,
-        Van,
-        SUV
-    }
 class Automobile{
 
     //delcare class properties
