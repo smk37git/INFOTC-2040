@@ -1,0 +1,15 @@
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MidtermProject\bin\Debug\net8.0\MidtermProject.exe
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MidtermProject\bin\Debug\net8.0\MidtermProject.deps.json
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MidtermProject\bin\Debug\net8.0\MidtermProject.runtimeconfig.json
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MidtermProject\bin\Debug\net8.0\MidtermProject.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MidtermProject\bin\Debug\net8.0\MidtermProject.pdb
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MidtermProject\obj\Debug\net8.0\MidtermProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MidtermProject\obj\Debug\net8.0\MidtermProject.AssemblyInfoInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MidtermProject\obj\Debug\net8.0\MidtermProject.AssemblyInfo.cs
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MidtermProject\obj\Debug\net8.0\MidtermProject.csproj.CoreCompileInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MidtermProject\obj\Debug\net8.0\MidtermProject.sourcelink.json
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MidtermProject\obj\Debug\net8.0\MidtermProject.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MidtermProject\obj\Debug\net8.0\refint\MidtermProject.dll
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MidtermProject\obj\Debug\net8.0\MidtermProject.pdb
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MidtermProject\obj\Debug\net8.0\MidtermProject.genruntimeconfig.cache
+C:\Users\sdmai\OneDrive\Documents\Sohpomore MIZ\INFOTC 2040\Homework\MidtermProject\obj\Debug\net8.0\ref\MidtermProject.dll
