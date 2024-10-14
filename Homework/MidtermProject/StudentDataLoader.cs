@@ -26,11 +26,16 @@ public class StudentDataLoader{
                 int creditHours = int.Parse(studentData[3]);
                 string major = studentData[4];
 
-                // Create student object
-                Student student = new Student(studentID, firstName, lastName, creditHours, major);
-
-                // Add the student object to the list
-                studentList.Add(student);
+                // Create student based off of classStatuc (Freshman, Sophomore, Junior, Senior)
+                if(creditHours < 30){
+                    studentList.Add(new Student(classStatus.Freshman, studentID, firstName, lastName, creditHours, major));
+                }else if (creditHours > 30 && creditHours < 60){
+                    studentList.Add(new Student(classStatus.Sophomore, studentID, firstName, lastName, creditHours, major));
+                }else if (creditHours > 59 && creditHours < 90){
+                    studentList.Add(new Student(classStatus.Junior, studentID, firstName, lastName, creditHours, major));
+                }else if (creditHours > 90){
+                    studentList.Add(new Student(classStatus.Senior, studentID, firstName, lastName, creditHours, major));
+                }
 
             }
             return studentList;

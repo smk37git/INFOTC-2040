@@ -6,9 +6,11 @@ public class Student{
     private string firstName = "", lastName = "";
     private int creditHours;
     private string major = "";
+    private classStatus classStatus;
 
     // Create a class constructor
-    public Student(int studentID, string firstName, string lastName, int creditHours, string major){
+    public Student(classStatus classStatus, int studentID, string firstName, string lastName, int creditHours, string major){
+        this.classStatus = classStatus;
         this.studentID = studentID;
         this.firstName = firstName;
         this.lastName = lastName;
@@ -21,6 +23,11 @@ public class Student{
 
     // Define class methods
     // Define getter and setter methods
+
+    // Class
+    public classStatus GetClassStatus(){
+        return this.classStatus;
+    }
 
     // ID
     public int GetID(){
@@ -60,7 +67,7 @@ public class Student{
     }
 
     public void PrintStudentInfo(){
-        Console.WriteLine($"ID: {this.studentID}: {this.firstName} {this.lastName}: {this.creditHours}({this.major})");
+        Console.WriteLine($"ID: {this.studentID}: {this.firstName} {this.lastName}: {classStatus} - ({this.major})");
     }
 
 }
