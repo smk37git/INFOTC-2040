@@ -41,4 +41,34 @@ public class StudentDataLoader{
             return studentList;
         }
     }
+
+    public static List<string> LoadScores(string filePath, int studentID){
+        // Create an empty list to store student objects
+        List<string> scoreList = new List<string>();
+
+        // Open the scores.csv file with a streamreader object
+        using(StreamReader fileReader = new StreamReader("scores.csv")){
+
+            // Read the file line by line
+            while(!fileReader.EndOfStream){
+
+                // Split the line at the comma
+                string lineOfData = fileReader.ReadLine()!;
+                string[] scoreData = lineOfData.Split(",");
+
+                if(studentID == int.Parse(scoreData[0])){
+                    // Loop through the remaining values which are the scores
+                    for (int i = 1; i < scoreData.Length; i++){
+
+                        // Initialize score
+                        string score = scoreData[i];
+
+                        // Add score to list
+                        scoreList.Add(score);
+                    }
+                }
+            }
+            return scoreList;
+        }
+    }
 }

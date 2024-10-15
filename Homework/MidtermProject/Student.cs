@@ -67,7 +67,7 @@ public class Student{
     }
 
     public void PrintStudentInfo(){
-        Console.WriteLine($"ID: {this.studentID}: {this.firstName} {this.lastName}: {classStatus} - ({this.major})");
+        Console.WriteLine($"\nID: {this.studentID}: {this.firstName} {this.lastName}: {classStatus} - ({this.major})\n----------Scores----------");
     }
 
 }
