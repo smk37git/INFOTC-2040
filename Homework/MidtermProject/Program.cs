@@ -10,6 +10,14 @@ class Program
         // Create a list of students
         List<Student> studentList = StudentDataLoader.LoadStudents("student_data.csv");
 
+
+        using(StreamWriter fileWriter = new StreamWriter("report.txt", true)){
+            // Start file
+            fileWriter.WriteLine("-------------Student Grade Report-------------");
+            fileWriter.WriteLine("----------------------------------------------");
+
+        }
+
         // List each student's information
         foreach(Student student in studentList){
             
@@ -18,7 +26,6 @@ class Program
 
             // Print Student Info
             student.PrintStudentInfo();
-
         }
     }
 

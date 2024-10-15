@@ -192,5 +192,19 @@ public class Student{
         Console.WriteLine("----------Scores----------");
         Console.WriteLine(StringScores());
 
+        // Create a file handler to write the Student Info to a file
+        using(StreamWriter fileWriter = new StreamWriter("report.txt", true)){
+
+            // Write the students to file
+            fileWriter.WriteLine($"\nID: {this.studentID}: {this.MakeFullName()}: {classStatus} - ({this.major})");
+            fileWriter.WriteLine("----------Scores---------");
+            fileWriter.WriteLine(StringScores());
+            
+            
+        }
+
+
+
+
     }
 }
