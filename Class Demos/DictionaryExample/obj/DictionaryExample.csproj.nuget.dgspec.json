@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sdmai\\OneDrive\\Documents\\Sohpomore MIZ\\INFOTC 2040\\Class Demos\\DictionaryExample\\DictionaryExample.csproj": {}
+    "C:\\Users\\sdmai\\OneDrive\\Documents\\Sophomore MIZ\\INFOTC 2040\\Class Demos\\DictionaryExample\\DictionaryExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sdmai\\OneDrive\\Documents\\Sohpomore MIZ\\INFOTC 2040\\Class Demos\\DictionaryExample\\DictionaryExample.csproj": {
+    "C:\\Users\\sdmai\\OneDrive\\Documents\\Sophomore MIZ\\INFOTC 2040\\Class Demos\\DictionaryExample\\DictionaryExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sdmai\\OneDrive\\Documents\\Sohpomore MIZ\\INFOTC 2040\\Class Demos\\DictionaryExample\\DictionaryExample.csproj",
+        "projectUniqueName": "C:\\Users\\sdmai\\OneDrive\\Documents\\Sophomore MIZ\\INFOTC 2040\\Class Demos\\DictionaryExample\\DictionaryExample.csproj",
         "projectName": "DictionaryExample",
-        "projectPath": "C:\\Users\\sdmai\\OneDrive\\Documents\\Sohpomore MIZ\\INFOTC 2040\\Class Demos\\DictionaryExample\\DictionaryExample.csproj",
+        "projectPath": "C:\\Users\\sdmai\\OneDrive\\Documents\\Sophomore MIZ\\INFOTC 2040\\Class Demos\\DictionaryExample\\DictionaryExample.csproj",
         "packagesPath": "C:\\Users\\sdmai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sdmai\\OneDrive\\Documents\\Sohpomore MIZ\\INFOTC 2040\\Class Demos\\DictionaryExample\\obj\\",
+        "outputPath": "C:\\Users\\sdmai\\OneDrive\\Documents\\Sophomore MIZ\\INFOTC 2040\\Class Demos\\DictionaryExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sdmai\\AppData\\Roaming\\NuGet\\NuGet.Config"
