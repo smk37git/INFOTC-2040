@@ -1,0 +1,15 @@
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\CrimeAnalyzer\bin\Debug\net8.0\CrimeAnalyzer.exe
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\CrimeAnalyzer\bin\Debug\net8.0\CrimeAnalyzer.deps.json
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\CrimeAnalyzer\bin\Debug\net8.0\CrimeAnalyzer.runtimeconfig.json
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\CrimeAnalyzer\bin\Debug\net8.0\CrimeAnalyzer.dll
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\CrimeAnalyzer\bin\Debug\net8.0\CrimeAnalyzer.pdb
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\CrimeAnalyzer\obj\Debug\net8.0\CrimeAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\CrimeAnalyzer\obj\Debug\net8.0\CrimeAnalyzer.AssemblyInfoInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\CrimeAnalyzer\obj\Debug\net8.0\CrimeAnalyzer.AssemblyInfo.cs
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\CrimeAnalyzer\obj\Debug\net8.0\CrimeAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\CrimeAnalyzer\obj\Debug\net8.0\CrimeAnalyzer.sourcelink.json
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\CrimeAnalyzer\obj\Debug\net8.0\CrimeAnalyzer.dll
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\CrimeAnalyzer\obj\Debug\net8.0\refint\CrimeAnalyzer.dll
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\CrimeAnalyzer\obj\Debug\net8.0\CrimeAnalyzer.pdb
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\CrimeAnalyzer\obj\Debug\net8.0\CrimeAnalyzer.genruntimeconfig.cache
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\CrimeAnalyzer\obj\Debug\net8.0\ref\CrimeAnalyzer.dll

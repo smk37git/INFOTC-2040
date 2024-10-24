@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 6603,
+            "driver": "MySQL",
+            "name": "MySQL Container Connection",
+            "database": "classicmodels",
+            "username": "root"
+        }
+    ]
+}

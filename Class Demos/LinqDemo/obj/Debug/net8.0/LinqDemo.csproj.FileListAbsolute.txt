@@ -1,0 +1,29 @@
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/LinqDemo/bin/Debug/net8.0/LinqDemo
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/LinqDemo/bin/Debug/net8.0/LinqDemo.deps.json
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/LinqDemo/bin/Debug/net8.0/LinqDemo.runtimeconfig.json
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/LinqDemo/bin/Debug/net8.0/LinqDemo.dll
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/LinqDemo/bin/Debug/net8.0/LinqDemo.pdb
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/LinqDemo/obj/Debug/net8.0/LinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/LinqDemo/obj/Debug/net8.0/LinqDemo.AssemblyInfoInputs.cache
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/LinqDemo/obj/Debug/net8.0/LinqDemo.AssemblyInfo.cs
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/LinqDemo/obj/Debug/net8.0/LinqDemo.csproj.CoreCompileInputs.cache
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/LinqDemo/obj/Debug/net8.0/LinqDemo.dll
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/LinqDemo/obj/Debug/net8.0/refint/LinqDemo.dll
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/LinqDemo/obj/Debug/net8.0/LinqDemo.pdb
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/LinqDemo/obj/Debug/net8.0/LinqDemo.genruntimeconfig.cache
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/LinqDemo/obj/Debug/net8.0/ref/LinqDemo.dll
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\LinqDemo\bin\Debug\net8.0\LinqDemo.exe
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\LinqDemo\bin\Debug\net8.0\LinqDemo.deps.json
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\LinqDemo\bin\Debug\net8.0\LinqDemo.runtimeconfig.json
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\LinqDemo\bin\Debug\net8.0\LinqDemo.dll
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\LinqDemo\bin\Debug\net8.0\LinqDemo.pdb
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\LinqDemo\obj\Debug\net8.0\LinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\LinqDemo\obj\Debug\net8.0\LinqDemo.AssemblyInfoInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\LinqDemo\obj\Debug\net8.0\LinqDemo.AssemblyInfo.cs
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\LinqDemo\obj\Debug\net8.0\LinqDemo.csproj.CoreCompileInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\LinqDemo\obj\Debug\net8.0\LinqDemo.sourcelink.json
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\LinqDemo\obj\Debug\net8.0\LinqDemo.dll
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\LinqDemo\obj\Debug\net8.0\refint\LinqDemo.dll
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\LinqDemo\obj\Debug\net8.0\LinqDemo.pdb
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\LinqDemo\obj\Debug\net8.0\LinqDemo.genruntimeconfig.cache
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\LinqDemo\obj\Debug\net8.0\ref\LinqDemo.dll

@@ -1,0 +1,275 @@
+Dean's List Students
+--------------------------
+Name: Frederick Evans - 4.00
+Name: Kathryn Ortega - 3.60
+Name: Bessie Blair - 3.90
+Name: Randall Bryan - 3.70
+Name: Rosie Knight - 3.50
+Name: Barbara Caldwell - 3.70
+Name: Adam Graham - 3.70
+Name: Howard Hansen - 3.50
+Name: Maurice Carpenter - 3.50
+Name: Cynthia Murray - 3.80
+Name: Craig Higgins - 3.70
+Name: Hallie Love - 3.50
+Name: Michael Little - 3.70
+Name: Derek Pierce - 3.50
+Name: Virginia Obrien - 3.80
+Name: Max Valdez - 3.60
+Name: Richard Moody - 3.70
+Name: Estella Wolfe - 3.60
+Name: Hallie Mullins - 3.70
+Name: Georgia Soto - 3.70
+Name: Virginia Terry - 4.00
+Name: Olive Gibbs - 4.00
+Name: Zachary Davidson - 4.00
+Name: Francis Stanley - 3.60
+Name: Gerald Webster - 3.60
+Name: Caleb Hanson - 3.50
+Name: Richard Luna - 3.50
+Name: Herbert Sparks - 3.60
+Name: Hulda Gross - 3.70
+Name: Martha Lopez - 4.00
+Name: Dale Griffith - 3.90
+Name: Lilly Dunn - 3.80
+Name: Seth Richards - 3.70
+Name: Georgia Jordan - 3.80
+Name: Elsie Patton - 3.80
+Name: Adrian Pearson - 3.50
+Name: Don Frank - 3.90
+Name: Claudia Sandoval - 3.50
+Name: Ollie Leonard - 3.60
+Name: Willie Atkins - 3.60
+Name: Mason Cohen - 3.80
+Name: Leon Adkins - 4.00
+Name: Estella Townsend - 3.70
+
+Students Names that Beginn with M
+-------------------------------
+Mabel Terry
+Mayme Ingram
+Maurice Carpenter
+Mina Sullivan
+Milton Jones
+Michael Little
+Michael Grant
+Max Valdez
+Martha Lopez
+Mason Cohen
+Margaret Jensen
+
+Min GPA 2016 - 2020: 2.00
+
+Max GPA 2016 - 2020: 4.00
+
+Average GPA 2016 - 2020: 2.99
+
+Students with the Lowest GPA
+-------------------------------
+Name: Rhoda Miller
+GPA: 2.00 -- GradYear: 2016
+
+Name: Tony Gordon
+GPA: 2.00 -- GradYear: 2024
+
+Name: Mayme Ingram
+GPA: 2.00 -- GradYear: 2022
+
+Name: Kyle Gibson
+GPA: 2.00 -- GradYear: 2022
+
+Name: Benjamin Munoz
+GPA: 2.00 -- GradYear: 2024
+
+Name: Celia Garza
+GPA: 2.00 -- GradYear: 2018
+
+Name: Leroy Gross
+GPA: 2.00 -- GradYear: 2024
+
+
+Students by Graduation Year
+---------------------------
+
+Graduation Year: 2014
+---------------------
+Name: Frederick Evans
+Name: Elijah Hopkins
+Name: Rosie Knight
+Name: Mina Sullivan
+Name: Derek Pierce
+Name: Daniel Fernandez
+Name: Larry Goodwin
+Name: Hallie Mullins
+Name: Lucy Osborne
+Name: Lawrence Lee
+Name: Lou Barnes
+Name: Harriet Robbins
+
+Graduation Year: 2015
+---------------------
+Name: Clarence Sharp
+Name: Rosalie Harper
+Name: Jordan Watkins
+Name: Tom Stone
+Name: Frank Duncan
+Name: Lizzie Nunez
+Name: Georgia Jordan
+Name: Hulda McDonald
+Name: Adrian Pearson
+Name: Clifford Cross
+Name: Lettie Hunt
+
+Graduation Year: 2016
+---------------------
+Name: Rhoda Miller
+Name: Barbara Caldwell
+Name: Ophelia Gutierrez
+Name: Howard Hansen
+Name: Hannah Johnson
+Name: Betty Frank
+Name: Virginia Obrien
+Name: Brent Hansen
+Name: Randy Harmon
+Name: Virginia Terry
+Name: Georgia Arnold
+Name: Ora Chavez
+Name: Francis Stanley
+Name: Lloyd Dean
+Name: Bruce Dunn
+Name: Martha Lopez
+Name: Dale Griffith
+Name: Willie Atkins
+Name: Philip Hart
+Name: Leon Adkins
+
+Graduation Year: 2017
+---------------------
+Name: Bertie Hill
+Name: Bessie Blair
+Name: Louisa Keller
+Name: Rosie Lee
+Name: Trevor Barnett
+Name: Lela George
+Name: Emily Lopez
+Name: Richard Moody
+Name: Walter Page
+Name: Gary Dixon
+Name: Essie Matthews
+Name: Claudia Sandoval
+
+Graduation Year: 2018
+---------------------
+Name: Mabel Terry
+Name: Kathryn Ortega
+Name: Ellen Walker
+Name: Jackson Christensen
+Name: Ina Lloyd
+Name: Lucy Gilbert
+Name: Beatrice Woods
+Name: Travis Estrada
+Name: Zachary Davidson
+Name: Ian Larson
+Name: Herbert Sparks
+Name: Celia Garza
+Name: Keith Parsons
+Name: Kate Neal
+Name: Landon Shelton
+Name: Ollie Leonard
+Name: Clyde Arnold
+
+Graduation Year: 2019
+---------------------
+Name: Rachel Guzman
+Name: Rhoda Rowe
+Name: Katharine Day
+Name: Douglas Welch
+Name: George Wells
+Name: Philip Ingram
+Name: Gerald Webster
+Name: Dustin Pierce
+Name: Inez Stewart
+Name: Beulah Fuller
+
+Graduation Year: 2020
+---------------------
+Name: Frank McKinney
+Name: Craig Higgins
+Name: Patrick Ryan
+Name: Max Valdez
+Name: Estella Wolfe
+Name: Viola Lowe
+Name: Seth Richards
+Name: Craig Kennedy
+Name: Justin Gomez
+Name: Rosetta Ramsey
+Name: Jennie Walters
+Name: Lettie Schwartz
+Name: Estella Townsend
+
+Graduation Year: 2021
+---------------------
+Name: William Barnes
+Name: Helen Butler
+Name: Milton Jones
+Name: Douglas Hogan
+Name: Chris Johnston
+Name: Logan Sparks
+Name: Warren Farmer
+Name: Trevor Lyons
+Name: Elsie Patton
+Name: Francis Reynolds
+Name: Jane Austin
+Name: Lewis Boyd
+Name: Charles McGee
+
+Graduation Year: 2022
+---------------------
+Name: Harvey Allison
+Name: Mayme Ingram
+Name: Aaron Gardner
+Name: Adam Graham
+Name: Luke Vega
+Name: Kyle Gibson
+Name: Georgia Soto
+Name: Justin Wolfe
+Name: Hulda Gross
+Name: Don Frank
+Name: Mason Cohen
+
+Graduation Year: 2023
+---------------------
+Name: Lee Price
+Name: Cynthia Murray
+Name: Andre Haynes
+Name: Hallie Love
+Name: Michael Grant
+Name: Edith Huff
+Name: Vincent Robbins
+Name: Eugene Frazier
+Name: Jeremy Higgins
+Name: Olive Gibbs
+Name: Ophelia Jensen
+Name: Caleb Hanson
+Name: Richard Luna
+Name: Lilly Dunn
+Name: Susan Walker
+Name: Jose Harmon
+Name: Lela Love
+Name: Ryan Potter
+
+Graduation Year: 2024
+---------------------
+Name: Tony Gordon
+Name: Randall Bryan
+Name: Isabella Holt
+Name: Maurice Carpenter
+Name: Michael Little
+Name: Lawrence Green
+Name: Benjamin Munoz
+Name: Beatrice Andrews
+Name: Jesus Flowers
+Name: Ruth Carson
+Name: Gertrude Castro
+Name: Leroy Gross
+Name: Margaret Jensen

@@ -1,0 +1,151 @@
+first_name,last_name,major,gpa,grad_year
+Bertie,Hill,Computer Science,3.4,2017
+Mabel,Terry,Electrical Engineering,2.5,2018
+Frederick,Evans, Civil Engineering,4.0,2014
+Rhoda,Miller,Electrical Engineering,2.0,2016
+Clarence,Sharp,Information Technology,3.1,2015
+Tony,Gordon,Computer Science,2.0,2024
+Kathryn,Ortega,Information Technology,3.6,2018
+Bessie,Blair,Computer Science,3.9,2017
+Louisa,Keller,Computer Science,2.5,2017
+Harvey,Allison,Computer Science,3.0,2022
+William,Barnes,Information Technology,2.9,2021
+Randall,Bryan, Civil Engineering,3.7,2024
+Mayme,Ingram,Computer Science,2.0,2022
+Rosie,Lee, Civil Engineering,2.3,2017
+Elijah,Hopkins,Computer Science,2.6,2014
+Ellen,Walker,Information Technology,2.5,2018
+Isabella,Holt,Computer Science,3.3,2024
+Trevor,Barnett,Information Technology,2.8,2017
+Rosie,Knight, Civil Engineering,3.5,2014
+Aaron,Gardner,Information Technology,2.4,2022
+Frank,McKinney,Computer Science,3.1,2020
+Barbara,Caldwell, Civil Engineering,3.7,2016
+Ophelia,Gutierrez,Information Technology,2.7,2016
+Helen,Butler,Information Technology,2.6,2021
+Adam,Graham,Computer Science,3.7,2022
+Howard,Hansen,Electrical Engineering,3.5,2016
+Rosalie,Harper,Computer Science,2.9,2015
+Maurice,Carpenter,Computer Science,3.5,2024
+Hannah,Johnson,Information Technology,2.7,2016
+Lee,Price,Electrical Engineering,2.6,2023
+Mina,Sullivan,Information Technology,2.4,2014
+Milton,Jones,Information Technology,2.6,2021
+Cynthia,Murray,Computer Science,3.8,2023
+Craig,Higgins, Civil Engineering,3.7,2020
+Jackson,Christensen,Electrical Engineering,3.4,2018
+Andre,Haynes,Computer Science,2.4,2023
+Lela,George,Computer Science,2.3,2017
+Ina,Lloyd,Computer Science,2.3,2018
+Betty,Frank,Electrical Engineering,3.2,2016
+Hallie,Love,Computer Science,3.5,2023
+Michael,Little, Civil Engineering,3.7,2024
+Jordan,Watkins,Information Technology,2.5,2015
+Lucy,Gilbert,Computer Science,2.9,2018
+Patrick,Ryan,Computer Science,3.3,2020
+Luke,Vega, Civil Engineering,2.8,2022
+Emily,Lopez,Computer Science,2.9,2017
+Derek,Pierce, Civil Engineering,3.5,2014
+Virginia,Obrien,Electrical Engineering,3.8,2016
+Michael,Grant,Electrical Engineering,2.7,2023
+Max,Valdez,Electrical Engineering,3.6,2020
+Daniel,Fernandez,Computer Science,2.2,2014
+Beatrice,Woods, Civil Engineering,3.4,2018
+Larry,Goodwin,Electrical Engineering,3.0,2014
+Douglas,Hogan,Electrical Engineering,2.4,2021
+Tom,Stone,Electrical Engineering,2.6,2015
+Richard,Moody,Computer Science,3.7,2017
+Edith,Huff,Computer Science,2.8,2023
+Frank,Duncan, Civil Engineering,2.5,2015
+Kyle,Gibson,Computer Science,2.0,2022
+Estella,Wolfe,Computer Science,3.6,2020
+Vincent,Robbins,Information Technology,2.5,2023
+Brent,Hansen,Computer Science,2.1,2016
+Chris,Johnston, Civil Engineering,2.4,2021
+Eugene,Frazier,Electrical Engineering,3.2,2023
+Rachel,Guzman,Information Technology,2.3,2019
+Lawrence,Green,Computer Science,3.4,2024
+Travis,Estrada, Civil Engineering,3.0,2018
+Randy,Harmon, Civil Engineering,2.5,2016
+Jeremy,Higgins,Information Technology,3.0,2023
+Hallie,Mullins, Civil Engineering,3.7,2014
+Walter,Page, Civil Engineering,2.2,2017
+Viola,Lowe,Computer Science,2.1,2020
+Gary,Dixon, Civil Engineering,2.8,2017
+Georgia,Soto,Computer Science,3.7,2022
+Virginia,Terry, Civil Engineering,4.0,2016
+Benjamin,Munoz, Civil Engineering,2.0,2024
+Lucy,Osborne, Civil Engineering,2.3,2014
+Georgia,Arnold,Computer Science,3.2,2016
+Ora,Chavez,Electrical Engineering,2.9,2016
+Rhoda,Rowe,Computer Science,2.4,2019
+Lawrence,Lee,Computer Science,3.3,2014
+Katharine,Day,Information Technology,2.3,2019
+Logan,Sparks,Electrical Engineering,2.3,2021
+Douglas,Welch, Civil Engineering,3.2,2019
+Olive,Gibbs, Civil Engineering,4.0,2023
+Zachary,Davidson, Civil Engineering,4.0,2018
+Ian,Larson,Electrical Engineering,2.9,2018
+Francis,Stanley, Civil Engineering,3.6,2016
+George,Wells,Computer Science,2.1,2019
+Philip,Ingram,Information Technology,3.1,2019
+Ophelia,Jensen,Computer Science,2.2,2023
+Gerald,Webster, Civil Engineering,3.6,2019
+Caleb,Hanson,Electrical Engineering,3.5,2023
+Richard,Luna, Civil Engineering,3.5,2023
+Essie,Matthews, Civil Engineering,2.7,2017
+Warren,Farmer,Computer Science,3.1,2021
+Lloyd,Dean,Information Technology,2.3,2016
+Herbert,Sparks,Electrical Engineering,3.6,2018
+Beatrice,Andrews,Information Technology,2.7,2024
+Justin,Wolfe,Computer Science,2.6,2022
+Jesus,Flowers,Electrical Engineering,3.4,2024
+Hulda,Gross, Civil Engineering,3.7,2022
+Trevor,Lyons, Civil Engineering,2.3,2021
+Bruce,Dunn,Information Technology,2.2,2016
+Martha,Lopez, Civil Engineering,4.0,2016
+Celia,Garza,Electrical Engineering,2.0,2018
+Dale,Griffith, Civil Engineering,3.9,2016
+Keith,Parsons,Information Technology,2.8,2018
+Ruth,Carson,Information Technology,2.3,2024
+Lizzie,Nunez,Information Technology,2.6,2015
+Lou,Barnes, Civil Engineering,3.1,2014
+Lilly,Dunn,Electrical Engineering,3.8,2023
+Seth,Richards,Information Technology,3.7,2020
+Dustin,Pierce, Civil Engineering,2.6,2019
+Georgia,Jordan, Civil Engineering,3.8,2015
+Harriet,Robbins,Electrical Engineering,2.1,2014
+Elsie,Patton, Civil Engineering,3.8,2021
+Kate,Neal, Civil Engineering,2.6,2018
+Hulda,McDonald,Information Technology,3.3,2015
+Gertrude,Castro,Electrical Engineering,2.9,2024
+Francis,Reynolds,Information Technology,2.6,2021
+Adrian,Pearson,Electrical Engineering,3.5,2015
+Craig,Kennedy,Electrical Engineering,3.0,2020
+Justin,Gomez,Computer Science,2.5,2020
+Clifford,Cross, Civil Engineering,2.5,2015
+Jane,Austin,Electrical Engineering,2.4,2021
+Landon,Shelton,Computer Science,2.9,2018
+Don,Frank,Electrical Engineering,3.9,2022
+Rosetta,Ramsey,Electrical Engineering,3.0,2020
+Claudia,Sandoval,Electrical Engineering,3.5,2017
+Susan,Walker,Information Technology,2.2,2023
+Ollie,Leonard,Computer Science,3.6,2018
+Lewis,Boyd,Computer Science,2.7,2021
+Inez,Stewart,Electrical Engineering,2.3,2019
+Jose,Harmon,Computer Science,3.3,2023
+Leroy,Gross,Information Technology,2.0,2024
+Clyde,Arnold,Electrical Engineering,2.3,2018
+Willie,Atkins, Civil Engineering,3.6,2016
+Beulah,Fuller, Civil Engineering,2.2,2019
+Mason,Cohen,Electrical Engineering,3.8,2022
+Jennie,Walters, Civil Engineering,2.7,2020
+Lettie,Hunt, Civil Engineering,2.2,2015
+Philip,Hart,Computer Science,3.1,2016
+Leon,Adkins, Civil Engineering,4.0,2016
+Lela,Love,Information Technology,3.3,2023
+Lettie,Schwartz,Electrical Engineering,2.6,2020
+Ryan,Potter,Electrical Engineering,2.4,2023
+Charles,McGee,Information Technology,3.2,2021
+Estella,Townsend,Information Technology,3.7,2020
+Margaret,Jensen, Civil Engineering,2.5,2024
