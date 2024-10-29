@@ -273,3 +273,193 @@ Name: Ruth Carson
 Name: Gertrude Castro
 Name: Leroy Gross
 Name: Margaret Jensen
+
+Number of Graduates by Year
+---------------------------
+Graduation Year: 2014 - 12
+Graduation Year: 2015 - 11
+Graduation Year: 2016 - 20
+Graduation Year: 2017 - 12
+Graduation Year: 2018 - 17
+Graduation Year: 2019 - 10
+Graduation Year: 2020 - 13
+Graduation Year: 2021 - 13
+Graduation Year: 2022 - 11
+Graduation Year: 2023 - 18
+Graduation Year: 2024 - 13
+
+Distinct Majors
+----------------
+ Civil Engineering
+Computer Science
+Electrical Engineering
+Information Technology
+
+Distinct Majors #2
+----------------
+Computer Science
+Electrical Engineering
+ Civil Engineering
+Information Technology
+
+Major:  Civil Engineering
+--------------------
+Frederick Evans
+Randall Bryan
+Rosie Lee
+Rosie Knight
+Barbara Caldwell
+Craig Higgins
+Michael Little
+Luke Vega
+Derek Pierce
+Beatrice Woods
+Frank Duncan
+Chris Johnston
+Travis Estrada
+Randy Harmon
+Hallie Mullins
+Walter Page
+Gary Dixon
+Virginia Terry
+Benjamin Munoz
+Lucy Osborne
+Douglas Welch
+Olive Gibbs
+Zachary Davidson
+Francis Stanley
+Gerald Webster
+Richard Luna
+Essie Matthews
+Hulda Gross
+Trevor Lyons
+Martha Lopez
+Dale Griffith
+Lou Barnes
+Dustin Pierce
+Georgia Jordan
+Elsie Patton
+Kate Neal
+Clifford Cross
+Willie Atkins
+Beulah Fuller
+Jennie Walters
+Lettie Hunt
+Leon Adkins
+Margaret Jensen
+
+Major: Computer Science
+--------------------
+Bertie Hill
+Tony Gordon
+Bessie Blair
+Louisa Keller
+Harvey Allison
+Mayme Ingram
+Elijah Hopkins
+Isabella Holt
+Frank McKinney
+Adam Graham
+Rosalie Harper
+Maurice Carpenter
+Cynthia Murray
+Andre Haynes
+Lela George
+Ina Lloyd
+Hallie Love
+Lucy Gilbert
+Patrick Ryan
+Emily Lopez
+Daniel Fernandez
+Richard Moody
+Edith Huff
+Kyle Gibson
+Estella Wolfe
+Brent Hansen
+Lawrence Green
+Viola Lowe
+Georgia Soto
+Georgia Arnold
+Rhoda Rowe
+Lawrence Lee
+George Wells
+Ophelia Jensen
+Warren Farmer
+Justin Wolfe
+Justin Gomez
+Landon Shelton
+Ollie Leonard
+Lewis Boyd
+Jose Harmon
+Philip Hart
+
+Major: Electrical Engineering
+--------------------
+Mabel Terry
+Rhoda Miller
+Howard Hansen
+Lee Price
+Jackson Christensen
+Betty Frank
+Virginia Obrien
+Michael Grant
+Max Valdez
+Larry Goodwin
+Douglas Hogan
+Tom Stone
+Eugene Frazier
+Ora Chavez
+Logan Sparks
+Ian Larson
+Caleb Hanson
+Herbert Sparks
+Jesus Flowers
+Celia Garza
+Lilly Dunn
+Harriet Robbins
+Gertrude Castro
+Adrian Pearson
+Craig Kennedy
+Jane Austin
+Don Frank
+Rosetta Ramsey
+Claudia Sandoval
+Inez Stewart
+Clyde Arnold
+Mason Cohen
+Lettie Schwartz
+Ryan Potter
+
+Major: Information Technology
+--------------------
+Clarence Sharp
+Kathryn Ortega
+William Barnes
+Ellen Walker
+Trevor Barnett
+Aaron Gardner
+Ophelia Gutierrez
+Helen Butler
+Hannah Johnson
+Mina Sullivan
+Milton Jones
+Jordan Watkins
+Vincent Robbins
+Rachel Guzman
+Jeremy Higgins
+Katharine Day
+Philip Ingram
+Lloyd Dean
+Beatrice Andrews
+Bruce Dunn
+Keith Parsons
+Ruth Carson
+Lizzie Nunez
+Seth Richards
+Hulda McDonald
+Francis Reynolds
+Susan Walker
+Leroy Gross
+Lela Love
+Charles McGee
+Estella Townsend

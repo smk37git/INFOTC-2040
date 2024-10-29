@@ -94,7 +94,70 @@ class Program
             }
 
         }
-            
+
+        
+        // List students by graduation year using a dictionary instead of LINQ
+        // Create the dictionary key: int, value: List<student>
+        Dictionary<int, List<Student>> gradYearDict = new Dictionary <int, List<Student>>();
+
+        // Search the list of students and place each student in the list associated with their grad year
+        // In the gradYearDict
+        foreach(Student student in studentList){
+            int gradYear = student.getGradYear();
+            // Check if grad year has a key in the dictionary
+            if(!gradYearDict.ContainsKey(gradYear)){
+                gradYearDict.Add(gradYear, new List<Student>(){student});
+            }else{
+                gradYearDict[gradYear].Add(student);
+            }
+
+        }
+
+        // Loop through the gradYearDict and print the students by gradYear
+        foreach(int year in gradYearDict.Keys){
+            Console.WriteLine($"\n----------{year} Graduates----------");
+            foreach(Student student in gradYearDict[year]){
+                Console.WriteLine($"{student.getFirstName()} {student.getLastName()}");
+            }
+        }
+
+
+        // How many students graduated in each year
+        reportDocument += $"\nNumber of Graduates by Year\n---------------------------\n";
+        foreach(var yearGroup in studentByGradYear){
+            reportDocument += $"Graduation Year: {yearGroup.Key} - {yearGroup.Count()}\n";
+        }
+        
+        // Get a list of distinct majors
+        var studentByMajor = from student in studentList
+                            group student by student.getMajor() into majorGroup
+                            orderby majorGroup.Key ascending
+                            select majorGroup;
+        // List the distinct majors
+        reportDocument += $"\nDistinct Majors\n----------------\n";
+        foreach(var majorGroup in studentByMajor){
+            reportDocument += $"{majorGroup.Key}\n";
+        }
+
+        reportDocument += $"\nDistinct Majors #2\n----------------\n";
+        var distinctMajors = (from student in studentList select student.getMajor()).Distinct();
+        foreach(var major in distinctMajors){
+            reportDocument += $"{major}\n";
+        }
+
+
+        // List each student by major
+        // Loop through the results from studentsByMajor to list students in major groups
+        foreach(var majorGroup in studentByMajor){
+            reportDocument += $"\nMajor: {majorGroup.Key}\n--------------------\n";
+            foreach(var student in majorGroup){
+                reportDocument += $"{student.getFirstName()} {student.getLastName()}\n";
+            }
+        }
+
+
+
+
 
         // Call the WriteReport function to write the report
         WriteReport(reportDocument, reportFile);

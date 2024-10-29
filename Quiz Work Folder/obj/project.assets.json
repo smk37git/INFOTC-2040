@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sdmai\\OneDrive\\Documents\\Sohpomore MIZ\\INFOTC 2040\\Quiz Work Folder\\Quiz Work Folder.csproj",
+      "projectUniqueName": "C:\\Users\\sdmai\\OneDrive\\Documents\\Sophomore MIZ\\INFOTC 2040\\Quiz Work Folder\\Quiz Work Folder.csproj",
       "projectName": "Quiz Work Folder",
-      "projectPath": "C:\\Users\\sdmai\\OneDrive\\Documents\\Sohpomore MIZ\\INFOTC 2040\\Quiz Work Folder\\Quiz Work Folder.csproj",
+      "projectPath": "C:\\Users\\sdmai\\OneDrive\\Documents\\Sophomore MIZ\\INFOTC 2040\\Quiz Work Folder\\Quiz Work Folder.csproj",
       "packagesPath": "C:\\Users\\sdmai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sdmai\\OneDrive\\Documents\\Sohpomore MIZ\\INFOTC 2040\\Quiz Work Folder\\obj\\",
+      "outputPath": "C:\\Users\\sdmai\\OneDrive\\Documents\\Sophomore MIZ\\INFOTC 2040\\Quiz Work Folder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sdmai\\AppData\\Roaming\\NuGet\\NuGet.Config"
