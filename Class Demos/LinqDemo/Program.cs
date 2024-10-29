@@ -90,7 +90,7 @@ class Program
             reportDocument += $"\nGraduation Year: {yearGroup.Key}\n---------------------\n";
             // Loop through the students in each grad year group
             foreach(var student in yearGroup){
-                reportDocument += $"Name: {student.getFirstName()} {student.getLastName()}\n";
+                reportDocument += $"{yearGroup.Count()}";
             }
 
         }

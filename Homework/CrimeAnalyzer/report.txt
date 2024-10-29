@@ -1,0 +1,38 @@
+----------Crime Analyzer Report----------
+1. What is the range of years included in the data?
+Period: 1994-2013
+
+2. How many years of data are included?
+There are 19 years of data
+
+3. What years is the number of murders per year less than 15000?
+2010 
+2011 
+2012 
+2013 
+
+4. What are the years and associated robberies per year for years where the number of robberies is greater than 500000?
+1994 = 618949
+1995 = 580509
+1996 = 535594
+
+5. What is the violent crime per capita rate for 2010? Per capita rate is the number of violent crimes in a year divided by the size of the population that year.
+Per Capita violent crime rate: 0.004045023483463799
+
+6. What is the average number of murders per year across all years?
+The average mumber of murders from all years: 17751.842
+
+7. What is the average number of murders per year for 1994 to 1997?
+The average mumber of murders from 1994 to 1997: 20696.25
+
+8. What is the average number of murders per year for 2010 to 2013?
+The average mumber of murders from 2010 to 2013: 14608.75
+
+9. What is the minimum number of thefts per year for 1999 to 2004?
+The minimum numer of thefts from 1999 to 2004: 6937089
+
+10. What is the maximum number of thefts per year for 1999 to 2004?
+The maximum number of thefts from 1999 to 2004: 7026802
+
+11. What year had the highest number of motor vehicle thefts?
+The year that had the highest number of motor vehicle thefts: 1994

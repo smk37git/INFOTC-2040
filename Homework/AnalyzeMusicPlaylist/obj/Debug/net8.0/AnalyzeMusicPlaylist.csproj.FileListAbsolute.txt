@@ -1,0 +1,15 @@
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\AnalyzeMusicPlaylist\bin\Debug\net8.0\AnalyzeMusicPlaylist.exe
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\AnalyzeMusicPlaylist\bin\Debug\net8.0\AnalyzeMusicPlaylist.deps.json
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\AnalyzeMusicPlaylist\bin\Debug\net8.0\AnalyzeMusicPlaylist.runtimeconfig.json
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\AnalyzeMusicPlaylist\bin\Debug\net8.0\AnalyzeMusicPlaylist.dll
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\AnalyzeMusicPlaylist\bin\Debug\net8.0\AnalyzeMusicPlaylist.pdb
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\AnalyzeMusicPlaylist\obj\Debug\net8.0\AnalyzeMusicPlaylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\AnalyzeMusicPlaylist\obj\Debug\net8.0\AnalyzeMusicPlaylist.AssemblyInfoInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\AnalyzeMusicPlaylist\obj\Debug\net8.0\AnalyzeMusicPlaylist.AssemblyInfo.cs
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\AnalyzeMusicPlaylist\obj\Debug\net8.0\AnalyzeMusicPlaylist.csproj.CoreCompileInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\AnalyzeMusicPlaylist\obj\Debug\net8.0\AnalyzeMusicPlaylist.sourcelink.json
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\AnalyzeMusicPlaylist\obj\Debug\net8.0\AnalyzeMusicPlaylist.dll
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\AnalyzeMusicPlaylist\obj\Debug\net8.0\refint\AnalyzeMusicPlaylist.dll
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\AnalyzeMusicPlaylist\obj\Debug\net8.0\AnalyzeMusicPlaylist.pdb
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\AnalyzeMusicPlaylist\obj\Debug\net8.0\AnalyzeMusicPlaylist.genruntimeconfig.cache
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\AnalyzeMusicPlaylist\obj\Debug\net8.0\ref\AnalyzeMusicPlaylist.dll
