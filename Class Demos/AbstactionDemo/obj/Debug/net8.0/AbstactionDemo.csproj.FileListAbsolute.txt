@@ -1,0 +1,29 @@
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/AbstactionDemo/bin/Debug/net8.0/AbstactionDemo
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/AbstactionDemo/bin/Debug/net8.0/AbstactionDemo.deps.json
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/AbstactionDemo/bin/Debug/net8.0/AbstactionDemo.runtimeconfig.json
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/AbstactionDemo/bin/Debug/net8.0/AbstactionDemo.dll
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/AbstactionDemo/bin/Debug/net8.0/AbstactionDemo.pdb
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/AbstactionDemo/obj/Debug/net8.0/AbstactionDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/AbstactionDemo/obj/Debug/net8.0/AbstactionDemo.AssemblyInfoInputs.cache
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/AbstactionDemo/obj/Debug/net8.0/AbstactionDemo.AssemblyInfo.cs
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/AbstactionDemo/obj/Debug/net8.0/AbstactionDemo.csproj.CoreCompileInputs.cache
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/AbstactionDemo/obj/Debug/net8.0/AbstactionDemo.dll
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/AbstactionDemo/obj/Debug/net8.0/refint/AbstactionDemo.dll
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/AbstactionDemo/obj/Debug/net8.0/AbstactionDemo.pdb
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/AbstactionDemo/obj/Debug/net8.0/AbstactionDemo.genruntimeconfig.cache
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/AbstactionDemo/obj/Debug/net8.0/ref/AbstactionDemo.dll
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\AbstactionDemo\bin\Debug\net8.0\AbstactionDemo.exe
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\AbstactionDemo\bin\Debug\net8.0\AbstactionDemo.deps.json
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\AbstactionDemo\bin\Debug\net8.0\AbstactionDemo.runtimeconfig.json
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\AbstactionDemo\bin\Debug\net8.0\AbstactionDemo.dll
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\AbstactionDemo\bin\Debug\net8.0\AbstactionDemo.pdb
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\AbstactionDemo\obj\Debug\net8.0\AbstactionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\AbstactionDemo\obj\Debug\net8.0\AbstactionDemo.AssemblyInfoInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\AbstactionDemo\obj\Debug\net8.0\AbstactionDemo.AssemblyInfo.cs
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\AbstactionDemo\obj\Debug\net8.0\AbstactionDemo.csproj.CoreCompileInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\AbstactionDemo\obj\Debug\net8.0\AbstactionDemo.sourcelink.json
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\AbstactionDemo\obj\Debug\net8.0\AbstactionDemo.dll
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\AbstactionDemo\obj\Debug\net8.0\refint\AbstactionDemo.dll
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\AbstactionDemo\obj\Debug\net8.0\AbstactionDemo.pdb
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\AbstactionDemo\obj\Debug\net8.0\AbstactionDemo.genruntimeconfig.cache
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Class Demos\AbstactionDemo\obj\Debug\net8.0\ref\AbstactionDemo.dll

@@ -1,0 +1,15 @@
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\OOPinheritence\bin\Debug\net8.0\OOPinheritence.exe
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\OOPinheritence\bin\Debug\net8.0\OOPinheritence.deps.json
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\OOPinheritence\bin\Debug\net8.0\OOPinheritence.runtimeconfig.json
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\OOPinheritence\bin\Debug\net8.0\OOPinheritence.dll
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\OOPinheritence\bin\Debug\net8.0\OOPinheritence.pdb
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\OOPinheritence\obj\Debug\net8.0\OOPinheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\OOPinheritence\obj\Debug\net8.0\OOPinheritence.AssemblyInfoInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\OOPinheritence\obj\Debug\net8.0\OOPinheritence.AssemblyInfo.cs
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\OOPinheritence\obj\Debug\net8.0\OOPinheritence.csproj.CoreCompileInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\OOPinheritence\obj\Debug\net8.0\OOPinheritence.sourcelink.json
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\OOPinheritence\obj\Debug\net8.0\OOPinheritence.dll
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\OOPinheritence\obj\Debug\net8.0\refint\OOPinheritence.dll
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\OOPinheritence\obj\Debug\net8.0\OOPinheritence.pdb
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\OOPinheritence\obj\Debug\net8.0\OOPinheritence.genruntimeconfig.cache
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\OOPinheritence\obj\Debug\net8.0\ref\OOPinheritence.dll
