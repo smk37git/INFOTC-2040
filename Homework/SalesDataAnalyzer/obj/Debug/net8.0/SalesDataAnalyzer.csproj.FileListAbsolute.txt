@@ -1,0 +1,15 @@
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\SalesDataAnalyzer\bin\Debug\net8.0\SalesDataAnalyzer.exe
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\SalesDataAnalyzer\bin\Debug\net8.0\SalesDataAnalyzer.deps.json
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\SalesDataAnalyzer\bin\Debug\net8.0\SalesDataAnalyzer.runtimeconfig.json
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\SalesDataAnalyzer\bin\Debug\net8.0\SalesDataAnalyzer.dll
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\SalesDataAnalyzer\bin\Debug\net8.0\SalesDataAnalyzer.pdb
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\SalesDataAnalyzer\obj\Debug\net8.0\SalesDataAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\SalesDataAnalyzer\obj\Debug\net8.0\SalesDataAnalyzer.AssemblyInfoInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\SalesDataAnalyzer\obj\Debug\net8.0\SalesDataAnalyzer.AssemblyInfo.cs
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\SalesDataAnalyzer\obj\Debug\net8.0\SalesDataAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\SalesDataAnalyzer\obj\Debug\net8.0\SalesDataAnalyzer.sourcelink.json
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\SalesDataAnalyzer\obj\Debug\net8.0\SalesDataAnalyzer.dll
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\SalesDataAnalyzer\obj\Debug\net8.0\refint\SalesDataAnalyzer.dll
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\SalesDataAnalyzer\obj\Debug\net8.0\SalesDataAnalyzer.pdb
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\SalesDataAnalyzer\obj\Debug\net8.0\SalesDataAnalyzer.genruntimeconfig.cache
+C:\Users\sdmai\OneDrive\Documents\Sophomore MIZ\INFOTC 2040\Homework\SalesDataAnalyzer\obj\Debug\net8.0\ref\SalesDataAnalyzer.dll
