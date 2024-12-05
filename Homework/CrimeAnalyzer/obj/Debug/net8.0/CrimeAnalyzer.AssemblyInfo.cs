@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrimeAnalyzer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b59093bd3b6b9c3489c90836df6d6be652d7cc2f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17c9e0d01f1aee04aa1a9bc32d5e3dcdff50a031")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrimeAnalyzer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrimeAnalyzer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

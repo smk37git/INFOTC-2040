@@ -37,6 +37,22 @@ public class Employee : Person{
     // Override the GetInfo() method
     public override string GetInfo()
     {
-        return $"Name: {First_Name} {Last_Name} - Title: {EmployeeJob}";
+        // Format the job title to be "Loan Officer" instead of "LoanOfficer"
+        string formattedJobTitle = EmployeeJob.ToString();
+
+        // Add spaces before uppercase letters
+        string result = "";
+        foreach (char character in formattedJobTitle){
+
+            // If the character is uppercase and it's not the first character, add a space
+            if(char.IsUpper(character) && result.Length > 0){
+                result += " ";
+            }
+
+            // Add the character to the result
+            result += character;
+        }
+
+        return $"Name: {First_Name} {Last_Name} - Title: {result}";
     }
 }

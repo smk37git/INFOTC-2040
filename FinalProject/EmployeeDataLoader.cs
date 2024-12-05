@@ -37,18 +37,20 @@ public class EmployeeDataLoader{
                     string password = employeeData[1];
                     string first_name = employeeData[2];
                     string last_name = employeeData[3];
-                    string jobTitleString = employeeData[4].Replace(" ", "_");
-                    JobTitle employeeJob = Enum.Parse<JobTitle>(jobTitleString);
-                    
-                // Add each index to the list
-                employeeDataList.Add(new Employee(username, password, employeeJob, first_name, last_name));
+                    string JobTitleString = employeeData[4].Replace(" ", string.Empty);
+
+                    // Parse JobTitle into Enum
+                    JobTitle employeeJob = Enum.Parse<JobTitle>(JobTitleString);
+
+                    // Add each index to the list
+                    employeeDataList.Add(new Employee(username, password, employeeJob, first_name, last_name));
 
                 }catch(Exception err){
                     string errorMessage = $"There was an error on line {lineNumber} in the data file: {err.Message}";
                     LogError(errorMessage);
                     continue;
                     }
-                }  
+                } 
             }
         
         }catch(Exception err){

@@ -33,50 +33,50 @@ class Program
 
         // Open the file
         try{
-           using(StreamReader fileReader = new StreamReader(dataFile)){
-            int lineNumber = 0;
-            int piecesOfData = 11;
+            using(StreamReader fileReader = new StreamReader(dataFile)){
+                int lineNumber = 0;
+                int piecesOfData = 11;
 
-            // Skip the first line which is the header row
-            string headerData = fileReader.ReadLine()!;
+                // Skip the first line which is the header row
+                string headerData = fileReader.ReadLine()!;
 
-            // Read names from the file line by line
-            while(!fileReader.EndOfStream){
-                lineNumber ++;
-                string lineofData = fileReader.ReadLine()!;
+                // Read names from the file line by line
+                while(!fileReader.EndOfStream){
+                    lineNumber ++;
+                    string lineofData = fileReader.ReadLine()!;
 
-                // Split each line at the ","
-                string[] salesDataData = lineofData.Split(",");
+                    // Split each line at the ","
+                    string[] salesDataData = lineofData.Split(",");
 
-                //check that there are 11 pieces of data
-                if(salesDataData.Length != 11){
-                    string errorMessage = $"Error in line {lineNumber}: Contains {salesDataData.Length} pieces of data with it should contain {piecesOfData}";
-                    LogError(errorMessage);
-                    continue;
-                }
+                    //check that there are 11 pieces of data
+                    if(salesDataData.Length != 11){
+                        string errorMessage = $"Error in line {lineNumber}: Contains {salesDataData.Length} pieces of data with it should contain {piecesOfData}";
+                        LogError(errorMessage);
+                        continue;
+                    }
 
-                try{
-                // Index the data into list
-                string Region = salesDataData[0];
-                string Country = salesDataData[1];
-                string ItemType = salesDataData[2];
-                string SalesChannel = salesDataData[3];
-                string OrderPriority = salesDataData[4];
-                string OrderDate = salesDataData[5];
-                int OrderID = int.Parse(salesDataData[6]);
-                string ShipDate = salesDataData[7];
-                int UnitsSold = int.Parse(salesDataData[8]);
-                decimal UnitPrice = decimal.Parse(salesDataData[9]);
-                decimal UnitCost = decimal.Parse(salesDataData[10]);
+                    try{
+                    // Index the data into list
+                    string Region = salesDataData[0];
+                    string Country = salesDataData[1];
+                    string ItemType = salesDataData[2];
+                    string SalesChannel = salesDataData[3];
+                    string OrderPriority = salesDataData[4];
+                    string OrderDate = salesDataData[5];
+                    int OrderID = int.Parse(salesDataData[6]);
+                    string ShipDate = salesDataData[7];
+                    int UnitsSold = int.Parse(salesDataData[8]);
+                    decimal UnitPrice = decimal.Parse(salesDataData[9]);
+                    decimal UnitCost = decimal.Parse(salesDataData[10]);
 
 
-                // Add each index to the list
-                salesDataList.Add((Region, Country, ItemType, SalesChannel, OrderPriority, OrderDate, OrderID, ShipDate, UnitsSold, UnitPrice, UnitCost));
+                    // Add each index to the list
+                    salesDataList.Add((Region, Country, ItemType, SalesChannel, OrderPriority, OrderDate, OrderID, ShipDate, UnitsSold, UnitPrice, UnitCost));
 
-                }catch(Exception err){
-                    string errorMessage = $"There was an error on line {lineNumber} in the data file: {err.Message}";
-                    LogError(errorMessage);
-                    continue;
+                    }catch(Exception err){
+                        string errorMessage = $"There was an error on line {lineNumber} in the data file: {err.Message}";
+                        LogError(errorMessage);
+                        continue;
                     }
                 }  
             }

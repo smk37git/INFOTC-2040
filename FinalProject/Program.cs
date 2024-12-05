@@ -1,5 +1,8 @@
 ﻿namespace FinalProject;
 
+// Sebastian Main - INFOTC 2040 - FINAL PROJECT
+// ONLINE BANKING APPLICATION
+
 class Program
 {
     // Global reference for customer data
@@ -7,11 +10,7 @@ class Program
     // Global reference for employee data
     static List<Employee> employeeDataList = new List<Employee>();
 
-    static void Main(string[] args)
-    {
-        // Sebastian Main - INFOTC 2040 - FINAL PROJECT
-        // ONLINE BANKING APPLICATION
-
+    static void Main(string[] args){
         // Starting Line
         Console.WriteLine("\nWelcome to your Online Banking Application!\n");
 
@@ -211,14 +210,14 @@ class Program
             AccountServicesMenu();
             string AccountServicesChoice = Console.ReadLine()!;
 
-            // Check to see if MenuChoice is one digit
+            // Check to see if AccountServicesChoice is one digit
             if(AccountServicesChoice.Length != 1){
                 Console.WriteLine("\nERROR: Selection must be 1 digit long and from the options!");
                 Console.Write("\nSelect Option: ");
                 continue;
             }
 
-            // Verify that the MenuChoice is a digit/number
+            // Verify that the AccountServicesChoice is a digit/number
             bool isMenuChoiceValid = true;
             foreach(char character in AccountServicesChoice){
                 if(!Char.IsDigit(character)){
@@ -398,7 +397,6 @@ class Program
                         // Search for the account number in the data
                         foreach(var transferCustomer in customerDataList){
                             if(transferCustomer.AccountNumber == TransferAccNumber){
-
                                 recipient = transferCustomer;
                                 accountExists = true;
                                 break;
@@ -505,13 +503,192 @@ class Program
     }
 
     static void CreateAccount(){
-        // Begin Account Login Menu
+        // Begin Create Account Menu
         Console.WriteLine("\n----------------------");
         Console.WriteLine("    CREATE ACCOUNT");
         Console.WriteLine("----------------------");
+
+        // Create variables
+        string UserFirstName = "";
+        string UserLastName = "";
+        string UserCreatedPIN = "";
+        string UserAccountType = "";
+        string newAccountNumber = "";
+
+        // Create First Name
+        while(true){
+            // Enter First Name
+            Console.WriteLine("\nEnter your first name:");
+            UserFirstName = Console.ReadLine()!;
+
+            // Validate First Name
+            bool isUserFirstNameValid = true;
+            foreach(char character in UserFirstName){
+                if(!Char.IsLetter(character)){
+                    isUserFirstNameValid = false;
+                    break;
+                }
+            }
+            if(isUserFirstNameValid == false){
+                Console.WriteLine("\nERROR: First name must be all letters!");
+                continue;
+            }
+
+            // If all information valid, break loop
+            break;
+        }
+
+        // Create Last Name
+        while(true){
+            // Enter Last Name
+            Console.WriteLine("\nEnter your last name:");
+            UserLastName = Console.ReadLine()!;
+
+            // Validate Last Name
+            bool isUserLastNameValid = true;
+            foreach(char character in UserLastName){
+                if(!Char.IsLetter(character)){
+                    isUserLastNameValid = false;
+                    break;
+                }
+            }
+            if(isUserLastNameValid == false){
+                Console.WriteLine("\nERROR: Last name must be all letters!");
+                continue;
+            }
+
+            // If all information valid, break loop
+            break;
+        }
+
+        // Create PIN
+        while(true){
+            // Create a PIN
+            Console.WriteLine("\nCreate your PIN [4 Digits]:");
+            UserCreatedPIN = Console.ReadLine()!;
+
+            // Check whether the number is between 0000 and 9999
+            if(UserCreatedPIN.Length != 4){
+                Console.WriteLine("\nERROR: PIN must be 4 digits!");
+                continue;
+            }
+
+            // Verify the each character is a digit/number
+            bool isPINValid = true;
+            foreach(char character in UserCreatedPIN){
+                if(!Char.IsDigit(character)){
+                    isPINValid = false;
+                    break;
+                }
+            }
+
+            if(isPINValid == false){
+                Console.WriteLine("\nERROR: PIN must be all digits!");
+                continue;
+            }
+
+            // If all information valid, break loop
+            break;
+        }
+
+        // Create Account Type
+        while(true){
+            // Enter Account Type
+            Console.WriteLine("\nWhat type of account do you want to open:");
+            Console.WriteLine("\n1. Savings\n2. Checking");
+            Console.WriteLine("\nSelect Option:");
+            UserAccountType = Console.ReadLine()!;
+
+            // Check whether the number is 1 digit
+            if(UserAccountType.Length != 1){
+                Console.WriteLine("\nERROR: Selection must be 1 digit!");
+                continue;
+            }
+
+            // Verify the each character is a digit/number
+            bool isAccountValid = true;
+            foreach(char character in UserAccountType){
+                if(!Char.IsDigit(character)){
+                    isAccountValid = false;
+                    break;
+                }
+            }
+
+            // Verify that UserAccountType is 1 or 2
+            if(UserAccountType == "1"){
+                UserAccountType = "Savings";
+                break;
+            }else if(UserAccountType == "2"){
+                UserAccountType = "Checking";
+                break;
+            }else if(UserAccountType != "1" && UserAccountType != "2"){
+                Console.WriteLine("\nERROR: Selection must be 1 [Savings] or 2 [Checking]!");
+                continue;
+            }
+
+            if(isAccountValid == false){
+                Console.WriteLine("\nERROR: Selection must be all digits!");
+                continue;
+            }
+
+            // If all information valid, break loop
+            break;
+        }
+
+        while(true){
+            // Generate Account Number
+            Random randomAccountNumber = new Random();
+
+            // Generate a 10 digit random number
+            decimal randomPart = randomAccountNumber.NextInt64(1000000000, 10000000000);
+
+            // Add the 10 digit random number to the required 6 digit ID
+            newAccountNumber = "183977" + randomPart.ToString();
+
+            // Validate that Account Number doesn't already exist
+            bool AccountNumberAlreadyExists = false;
+
+            // Search for the account number in the data
+            foreach(var existingCustomer in customerDataList){
+                if(existingCustomer.AccountNumber == newAccountNumber){
+                    AccountNumberAlreadyExists = true;
+                    break;
+                }
+            }
+
+            // If the new account number exists
+            if(!AccountNumberAlreadyExists){
+                break;
+            }
+        }
+
+        // Create a new customer object
+        Customer newCustomer = new Customer(
+            newAccountNumber,
+            UserCreatedPIN,
+            UserFirstName,
+            UserLastName,
+            100,
+            UserAccountType,
+            "None",
+            0
+        );
+
+        // Add the new customer to the customerDataList list
+        customerDataList.Add(newCustomer);
+
+        // Append to the CSV file
+        OverwriteCustomerData.OverwriteData(customerDataList, "customer_data.csv");
+
+        // Write Success Message`
+        Console.WriteLine($"\nCongratulations {UserFirstName} {UserLastName}! Your account is now open with an initial deposit of $100!");
+        Console.WriteLine($"Your account number is: {newAccountNumber}. You can login and access acount services now.");
+
+        // Finally return to menu
+        Console.Write("\n");
+        MainMenu();
+
     }
-
-
 
     static void AdministratorLogin(){
         // Begin Admin Login Menu
@@ -762,7 +939,7 @@ class Program
                     // Employee Information Inquiry
                     Console.Write("\n-----Employee Data------");
                     foreach(var Employee in employeeDataList){
-                        Console.WriteLine(Employee.GetInfo());
+                        Console.WriteLine("\n" + Employee.GetInfo());
                     }
                     Console.Write("\n");
                     break;
