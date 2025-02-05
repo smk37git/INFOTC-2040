@@ -1,5 +1,5 @@
 # INFOTC-2040
-Sebasian Main<br >
+Sebastian Main<br >
 (Programming II)<br >
 (Language = C#)<br >
 
